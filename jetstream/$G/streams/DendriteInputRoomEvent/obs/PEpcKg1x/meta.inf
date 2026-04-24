@@ -1,0 +1,1 @@
+{"Created":"2025-12-19T11:48:17.627493Z","Name":"PEpcKg1x","name":"PEpcKg1x","deliver_policy":"all","ack_policy":"explicit","ack_wait":30000000000,"max_deliver":-1,"replay_policy":"instant","max_ack_pending":1000,"headers_only":true,"deliver_subject":"_INBOX.VlYk7sBmHqGO4XXM7EMHw4","num_replicas":0,"metadata":{"_nats.req.level":"0"}}
